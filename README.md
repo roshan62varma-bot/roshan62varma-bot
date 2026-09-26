@@ -22,4 +22,4 @@ Here are some ideas to get you started:
 
 ## 🐍 My Contributions
 
-![Snake animation](https://raw.githubusercontent.com/roshan62varma-bot/roshan62varma-bot/gh-pages/github-contribution-grid-snake.svg)
+![Snake animation](https://raw.githubusercontent.com/roshan62varma-bot/roshan62varma-bot/gh-pages/github-contribution-grid-snake-dark.svg)
