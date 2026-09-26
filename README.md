@@ -19,3 +19,7 @@ Here are some ideas to get you started:
   <source media="(prefers-color-scheme: light)" srcset="light_mode.svg" />
   <img alt="roshan62varma-bot's GitHub profile" src="dark_mode.svg" />
 </picture>
+
+## 🐍 My Contributions
+
+![Snake animation](https://raw.githubusercontent.com/roshan62varma-bot/roshan62varma-bot/gh-pages/github-contribution-grid-snake.svg)
